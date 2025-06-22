@@ -331,13 +331,3 @@ Use as credenciais padrão ou registre uma nova conta
 ✅ **Mensagens de feedback**: Sucesso e erro para ações  
 ✅ **Paginação**: Listagem paginada dos resultados
 
-## 👨‍💻 Desenvolvedor
-
-**Nome**: [Seu Nome]  
-**Disciplina**: Programação Web 2  
-**Instituição**: [Nome da Faculdade]  
-**Data**: 2024
-
----
-
-⭐ **Avaliação**: 10/10 pontos - Todos os requisitos implementados com excelência!
